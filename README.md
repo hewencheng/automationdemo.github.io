@@ -1,36 +1,37 @@
 # automationdemo.github.io
 
-## 前言
+## Objective
 
-用python写的一个自动化工具主要用到python os库调bat文件来帮助我们达到自动的目的
-
-
-## 技能
-
-需要python os库、bat、adb命令
-
-## 用法
-
-1.把需要解压文件的file、apk文件放入automationdemo.github.io\batfile\flie 目录下
-
-2.Android手机连接电脑devices识别正常
-
-3.运行AddFile.py 
+An automation tool written in Python is primarily used in Python OS Library tuning bat files to help us achieve automated goals
 
 
-## 目录介绍
+## Skills
+
+Python OS library, bat, ADB commands required
+
+## Usage
+
+1.Put the file and apk files that need to unzip the files in the Automationdemo.github.iobatfileflie directory
+
+2.Android mobile phone connected to computer devices recognition normal
+
+3.Run AddFile.py
+
+
+## Catalog Introduction
 ### Android
-1.AddFile.py 用于帮助我们自动安装apk、file等文件操作
+1.AddFile.py is used to help us automatically install APK, file and other files
 
-2.logcat.py 用于抓住Android手机log日志
+2.logcat.py used to grab Android phone log logs
 
-3.deletefile.py 用于删除目录
+3.deletefile.py for deleting directories
 
 ### fileoperating
-1.用于处理文件的脚本
+1.Scripts for working with files
 
 
 ### reptile
-1.抓取网易云音乐和豆瓣电影的接口
-2.存储在mongodb数据库
+1.Capture the interface of NetEase cloud music and Douban movies 
+
+2.stored in the MongoDB database
 
