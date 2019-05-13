@@ -12,12 +12,17 @@
 ## 用法
 
 1.把需要解压文件的file、apk文件放入automationdemo.github.io\batfile\flie 目录下
+
 2.Android手机连接电脑devices识别正常
+
 3.运行AddFile.py 
+
 
 ## 文件介绍
 
 1.AddFile.py 用于帮助我们自动安装apk、file等文件操作
+
 2.logcat.py 用于抓住Android手机log日志
+
 3.deletefile.py 用于删除目录
 
