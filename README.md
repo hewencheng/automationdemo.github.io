@@ -19,18 +19,14 @@
 
 
 ## 目录介绍
-
 ### Android
-
 1.AddFile.py 用于帮助我们自动安装apk、file等文件操作
 
 2.logcat.py 用于抓住Android手机log日志
 
 3.deletefile.py 用于删除目录
 
-
 ### fileoperating
-
 1.用于处理文件的脚本
 
 
